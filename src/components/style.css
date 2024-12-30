@@ -1,0 +1,36 @@
+th {
+    border: 1px solid #0f172a;
+    padding: 10px 0;
+}
+
+td {
+    border: 1px solid #0f172a;
+    padding: 10px;
+}
+
+.search-bar {
+    margin-bottom: 20px;
+}
+
+body {
+    place-items: unset;
+    background: url(../assets/images/fog-4436636_1920.jpg);
+}
+
+.bg {
+    width: 70%;
+    margin: 50px auto;
+}
+
+.rog > div {
+    border-right: 1px solid white;
+}
+
+input {
+    width: 80%;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background: #fff;
+    outline: none;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
